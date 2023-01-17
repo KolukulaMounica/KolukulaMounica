@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KolukulaMounica
 - 👀 I’m interested in Analysing Data
 - 🌱 I’m currently learning Business Analytics
-- 💞️ I’m looking to collaborate on models related to Data Science
+- 💞️ I’m looking to collaborate on models related to Analytics Engineering
 - 📫 How to reach me - mounicakolukula@gmail.com
 
 <!---
